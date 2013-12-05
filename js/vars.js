@@ -9,8 +9,8 @@ user.typeWeb = 'app';
 user.terminos = 'No';
 user.img = ['','','',''];
 var nombreApp = 'JdeO';
-var urlSendForm = "http://e-short.com/apps/jdeo/php/registra_formulario.php";
-var urlUploadPhoto = "http://e-short.com/apps/jdeo/php/uploadPhoto.php";
+var urlSendForm = "http://jdeo.es/apps/php/registra_formulario.php";
+var urlUploadPhoto = "http://jdeo.es/apps/php/uploadPhoto.php";
 var urlinAppBrowser = 'http://jdeo.es';
 var pictureSource;   // picture source
 var destinationType; // sets the format of returned value
