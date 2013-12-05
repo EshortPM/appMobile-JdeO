@@ -9,8 +9,8 @@ user.typeWeb = 'app';
 user.terminos = 'No';
 user.img = ['','','',''];
 var nombreApp = 'JdeO';
-var urlSendForm = "http://e-short.com/jdeo/apps/php/registra_formulario.php";
-var urlUploadPhoto = "http://e-short.com/jdeo/apps/php/uploadPhoto.php";
+var urlSendForm = "http://e-short.com/apps/jdeo/php/registra_formulario.php";
+var urlUploadPhoto = "http://e-short.com/apps/jdeo/php/uploadPhoto.php";
 var urlinAppBrowser = 'http://jdeo.es';
 var pictureSource;   // picture source
 var destinationType; // sets the format of returned value
@@ -36,8 +36,8 @@ var txt_error_data_noImage = "¿Enviar los datos sin imágenes?";
 var txt_msj_register = "Datos enviados con éxito\n\n¿Deseas solicitar otra tasación?";
 var txt_error_uploadPhoto = "Error al cargar imagen";
 var txt_msj_borrarLoc = "¿Quieres modificar los datos?";
-var mail_recAmigo_subject = "Vende fácilmente y al mejor precio tus joyas";
-var mail_recAmigo_body = "Te recomiendo esta aplicación que te permitirá vender de un modo fácil y al mejor precio las joyas, relojes  y objetos valiosos que ya no usas.<br/><br/>Si quieres saber cuánto te pagarían por ellos no lo dudes y descárgatela en: http://jdeo.es/apps";
+var mail_recAmigo_subject = "Vende fácil y con el mejor precio tus joyas, relojes y objetos valiosos.";
+var mail_recAmigo_body = "Te recomiendo esta aplicación que te permitirá vender fácil y con el mejor precio las joyas, relojes  y objetos valiosos que ya no usas.<br/><br/>Si quieres saber cuánto te pagarían por ellos no lo dudes y descárgatela en: http://jdeo.es/apps";
 var iabRef;
 var loadpage = 0;
 var iabMail;
